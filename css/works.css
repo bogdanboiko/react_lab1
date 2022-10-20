@@ -1,0 +1,150 @@
+.works_caption {
+    margin-top: 100px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    color: #282938;
+    opacity: 0.7;
+}
+
+.works_portfolio {
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+    text-align: center;
+    text-align: center;
+    color: #282938;
+}
+
+.works_content {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    margin: 0 300px 47px 300px;
+    text-align: center;
+    color: #282938;
+    opacity: 0.7;
+}
+
+.connection_wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.examples_type_list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.type_item {
+    margin-right: 32px;
+}
+
+.type_item_link {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    color: #282938;
+    text-decoration: none;
+    opacity: 0.7;
+}
+
+.templates {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-column-gap: 25px;
+    grid-row-gap: 48px;
+}
+
+.template_card-pic {
+    width: 630px;
+    height: 380px;
+}
+
+.template_card-title {
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 56px;
+    color: #282938;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.template_card-content {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: justify;
+    color: #282938;
+    opacity: 0.7;
+}
+
+.template_text_button_link {
+    text-decoration: none;
+}
+
+.template_text_button {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    color: #282938;
+    background: transparent;
+    border: none;
+}
+
+.template_text_button_arrow {
+    color: #000;
+}
+
+.contact_us_caption {
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+    text-align: center;
+    color: #282938;
+    width: 630px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.contact_us_content {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    color: #282938;
+    opacity: 0.7;
+    width: 600px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.contact_us_button_link {
+    text-decoration: none;
+}
+
+.contact_us_button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background: #FCD980;
+    border-radius: 41px;
+    margin-right: 40px;
+    padding: 16px 48px;
+    gap: 10px;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 32px;
+    color: #1B1C2B;
+    border: none;
+    margin: auto;
+}
