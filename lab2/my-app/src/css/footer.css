@@ -1,0 +1,92 @@
+.footer_content {
+    background: #1C1E53;
+    padding-top: 96px;
+}
+.footer_content_wrap {
+    display: flex;
+    flex-direction: row;
+}
+.logo_container {
+    margin-right: 260px;
+}
+.logo_subtitle {
+    padding-top: 36px;
+    font-weight: 500;
+    font-size: 16px;
+    text-wrap: normal;
+    line-height: 28px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+.lets_talk {
+    max-width: 400px;
+}
+.lets_talk_title {
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+    color: white;
+    margin-bottom: 14px;
+}
+.lets_talk_desc {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #F4F6FC;
+    opacity: 0.8;
+    margin-bottom: 28px;
+}
+
+.contact_info {
+    background: #FCD980;
+    display: flex;
+    flex-direction: row;
+    gap: 29px;
+    width: 517px;
+    padding-left: 37px;
+    padding-top: 18px;
+    padding-bottom: 16px;
+}
+.contact_info_title {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    color: #282938;
+}
+.contact_info_subtitle {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+    opacity: 0.8;
+}
+.footer_links {
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+.footer_links_wrap {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.copyright_info {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+}
+.footer_navigation_item {
+    margin-right: 32px;
+}
+.navigation_item:last-child {
+    margin-right: 0;
+}
+.footer_navigation_link {
+    font-weight: 500;
+    line-height: 28px;
+    color: #282938;
+    text-decoration: none;
+}
+.footer_navigation_link:hover, .header_link:focus {
+    color: #6C6F98;
+}
